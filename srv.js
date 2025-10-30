@@ -1,4 +1,5 @@
 // birthday.js
+
 const msg = {
     to: "Bagus Bimawan Sembodo",
     message: "Happy Birthday! Wish you all the best. You are a very kind friend",
@@ -11,12 +12,3 @@ const msg = {
 };
 
 console.log(`Happy Birthday, ${msg.to}!`);
-
-if (today == yourBirthday) {
-        celebrate();
-    eat(cake);
-    enjoy(life);
-}
-else {
-    keepCoding();
-}
